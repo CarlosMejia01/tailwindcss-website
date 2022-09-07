@@ -569,6 +569,9 @@ video {
 .-top-2 {
 	top: -0.5rem;
 }
+.top-2 {
+	top: 0.5rem;
+}
 .z-50 {
 	z-index: 50;
 }
