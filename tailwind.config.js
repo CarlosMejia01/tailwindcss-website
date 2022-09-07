@@ -11,10 +11,9 @@ module.exports = {
 				//     'wave-pink': "url('../img/wave-pink.png')",
 				//     'yellow-dots': "url('../img/pattern-yellow-dots.png')",
 			}),
-			//   screens:{
-			//     'xsm': '320px'
-
-			//   }
+			screens: {
+				xsm: "320px",
+			},
 		},
 	},
 	variants: {
